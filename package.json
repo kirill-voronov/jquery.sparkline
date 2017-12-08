@@ -1,0 +1,19 @@
+{
+  "name": "jquery.sparkline",
+  "version": "2.1.2",
+  "description": "This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwatts/jquery.sparkline.git"
+  },
+  "author": "gwatts",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/gwatts/jquery.sparkline/issues"
+  },
+  "homepage": "https://github.com/gwatts/jquery.sparkline#readme"
+}
